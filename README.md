@@ -5,6 +5,12 @@ JavaScript conversion of meters to yards.
 [![Build Status](https://travis-ci.org/joshause/meterstoyards.svg?branch=master)](https://travis-ci.org/joshause/meterstoyards)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
+## Install
+
+```
+$ npm install meters-to-yards
+```
+
 ## Usage
 
 ### Node.js

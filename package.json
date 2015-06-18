@@ -1,7 +1,7 @@
 {
   "name": "meters-to-yards",
   "title": "meterstoyards.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "meterstoyards.js",
   "description": "Converts meters to yards",
   "devDependencies": {
